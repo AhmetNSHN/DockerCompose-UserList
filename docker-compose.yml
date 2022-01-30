@@ -4,7 +4,7 @@
 
 # docker-compose build
 # docker-compose push
-# docker push hakanozer02/dockercompose:1.0
+# docker push ahmetnsahin/dockercompose:1.0
 
 version: "3.8"
 
