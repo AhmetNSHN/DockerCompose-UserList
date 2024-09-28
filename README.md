@@ -1,5 +1,5 @@
 # DockerCompose-UserList
-simple MVC application with MySqQL Docker compose configurations. Create Docker image of Springboot application with MySQL
+simple MVC application with MySqQL Docker compose configurations. Create Docker image of Springboot application with MySQL. Add user info update and delete.
 
 Step 1: create docker file<br/>
 Dockerfile:
